@@ -6,3 +6,4 @@ print("Add some changes.")
 
 def addition(a: int, b: int):
     return a + b
+
